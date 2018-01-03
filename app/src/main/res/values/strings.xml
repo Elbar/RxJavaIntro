@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxGuide</string>
+    <string name="username">Имя</string>
+    <string name="search">Поиск</string>
+</resources>
